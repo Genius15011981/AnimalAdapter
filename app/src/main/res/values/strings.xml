@@ -1,21 +1,5 @@
 <resources>
-    <string name="app_name">medical</string>
-    <string name="medical">Medical</string>
-    <string name="wellcome_to_nmedica">Wellcome to\nMedica!</string>
-    <string name="the_best_online_doctor_appointment_n_consultation_app_of_the_century_for_your_n_health_and_medical_needs">The best online doctor appointment \n consultation app of the century for your\n health and medical needs</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="thousands_of">Thousands of \ndoctors experts to\n help your health!</string>
-    <string name="next">Next</string>
-    <string name="get_started">Get started</string>
-    <string name="lets">Let\'s start living\nhealthy and well\nwith us right now!</string>
-    <string name="let_s_you_in">Let\'s you in</string>
-    <string name="facebook_txt">Continue with facebook</string>
-    <string name="continue_with_google">Continue with Google</string>
-    <string name="don_t_have_an_account">Don’t have an account?</string>
-    <string name="create_new_account">Create New Account</string>
-    <string name="email">Email</string>
-    <string name="password">Password</string>
-    <string name="or_continue_with">or continue with</string>
-    <string name="sign_up">Sign up</string>
-    <string name="remember_me">Remember me</string>
+    <string name="app_name">Fruits</string>
+    <string name="fruits">Fruits</string>
+
 </resources>
